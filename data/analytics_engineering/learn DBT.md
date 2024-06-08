@@ -4,9 +4,13 @@ This article serves as an always evolving knowledge base, gathering the best mat
 
 DBT is strongly associated, if not identified, with the analytics engineer or data analytics engineer role, which is a crucial part of modern data teams.
 
+<img width="393" alt="dbt1" src="https://github.com/Abdelhaq-Bensghir/articles/assets/34965389/5286934e-7293-4052-b21e-cad3233c57ad">
+
 ## What's DBT?
 
 DBT (data build tool) is an open-source Python package that enables data analysts and data engineers to transform their data using the same practices that software engineers use to build applications, all through SQL queries.
+
+<img width="393" alt="dbt2" src="https://github.com/Abdelhaq-Bensghir/articles/assets/34965389/84a80828-793e-4bbc-af0b-38b2ed1f65ad">
 
 DBT started gaining popularity back in 2021 and is backed by DBT Labs, pioneers in the practice of analytics engineering. It's expected that by 2027, every company will adopt Analytics Engineering.
 
@@ -33,7 +37,7 @@ DBT started gaining popularity back in 2021 and is backed by DBT Labs, pioneers 
 ## Additional Resources:
 
 - [Official Documentation](https://docs.getdbt.com/)
-- Attend DBT events or webinars near you.
+- Attend DBT events or webinars near you: [on meetup for example](https://www.meetup.com/)
 - DBT cheatsheet: [Download here](https://github.com/bruno-szdl/cheatsheets/blob/main/dbt_cheat_sheet.pdf)
 
 Please feel free to get in touch or comment if you discover any interesting links or articles to share with the community. Thanks in advance!

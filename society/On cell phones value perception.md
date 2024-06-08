@@ -2,6 +2,8 @@
 
 Let’s say I am writing this as a contribution to solve a widespread societal issue...
 
+![phone](https://github.com/Abdelhaq-Bensghir/articles/assets/34965389/e0570c27-9743-4d57-9909-b3b4376f1deb)
+
 ## Introduction
 
 Addiction to cell phones is an issue that touches large groups of users across generations. If you question this assertion, just look around when getting in the subway or in the bus... At this point the issue seems to be evident, and this article is intended to reflect on what may be among its main reasons.

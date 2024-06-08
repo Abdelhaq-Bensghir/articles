@@ -1,2 +1,13 @@
-# Articles
-Welcome to Articles' repository! I’m a Senior Data Consultant passionate about cloud, data, and product. Here, I write about data, technology, and other intriguing topics. My articles blend technical insights with creative thinking, aiming to popularize data topics and provoke thoughtful discussions. All ideas are my own.
+# Abdelhaq's Articles Repository
+
+Welcome to my Articles Repository! I'm Abdelhaq Bensghir, a Senior Data Consultant with a fervent passion for cloud, data, and product development. Here, I delve into various topics, spanning from data science to technology and beyond. My articles fuse technical insights with creative thinking, striving to popularize data-related subjects and ignite meaningful discussions.
+
+## Why do I write here?
+
+This repository is my sanctuary of content control. After bidding farewell to Medium, I've migrated all my articles here on GitHub. It's a platform where ideas flourish freely, fostering a community of curious minds eager to explore the realms where data meets imagination.
+
+Feel free to explore, engage, and embark on this journey of exploration and discovery alongside me!
+
+---
+Abdelhaq Bensghir  
+Senior Data Consultant

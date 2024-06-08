@@ -30,7 +30,7 @@ To sum up, this article did try focusing on explaining one reason: the biased pe
 
 To dive deep in the subject, I suggest a documentary that may shift the way you consider some things: *The Social Dilemma*
 
-## Source
+![social_dilemma](https://github.com/Abdelhaq-Bensghir/articles/assets/34965389/9bb9a5e2-03da-4575-8502-4a53c514e726)
 
 *The Social Dilemma* by Jeff Orlowski explores the negative consequences of the social media phenomenon among teens and young adults. The film interviews former employees of top technology companies such as Google, YouTube, Facebook, Twitter, and Mozilla, gleaning their opinions on how these companies have strong influences in today’s social, cultural, and political realms and not for the better. Have a good time watching it!
 

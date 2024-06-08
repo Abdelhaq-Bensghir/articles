@@ -4,7 +4,7 @@ Welcome to my Articles Repository! I'm Abdelhaq Bensghir, a Senior Data Consulta
 
 ## Why do I write here?
 
-This repository is my sanctuary of content control. After bidding farewell to Medium, I've migrated all my articles here on GitHub. It's a platform where ideas flourish freely, fostering a community of curious minds eager to explore the realms where data meets imagination.
+After bidding farewell to Medium, I am migrating all my articles here on GitHub. It's a platform where ideas flourish freely, fostering a community of curious minds eager to explore the realms where data meets imagination.
 
 Feel free to explore, engage, and embark on this journey of exploration and discovery alongside me!
 

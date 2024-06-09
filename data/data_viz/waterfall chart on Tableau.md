@@ -53,6 +53,7 @@ We still need to create the line that will link the sales values of the differen
 <img width="500" alt="tableau_waterfall10" src="https://github.com/Abdelhaq-Bensghir/articles/assets/34965389/decb20d2-7624-447a-83eb-f954c3e9fb12">
 
 Then set the line type to ‘Step’ type. You will get the following :
+
 <img width="500" alt="tableau_waterfall11" src="https://github.com/Abdelhaq-Bensghir/articles/assets/34965389/2096722e-fc06-4bad-ba71-9cf9e857d8bf">
 
 You can also play with the size of the ligne to render it more light. Then the last step is to merge the two axis. This could be done in a variety of ways, but consider the following method, using Dual Axis option from the Rows:

@@ -70,6 +70,8 @@ Now, remove the labels for the line plot, and hide the header of the second Sale
 
 ### Conclusion
 
-You've successfully created a waterfall chart in Tableau! If you found this helpful, let me know for more tutorials. Feel free to ask questions or connect with me on [Linkedin](https://linkedin.com/in/bensghir)!
+You've successfully created a waterfall chart in Tableau! If you found this helpful, let me know for more tutorials.
 
-See you next time.
+You can also follow me on [Tableau Public](https://public.tableau.com/app/profile/abens/vizzes) where I share from time to time data visualisation personnal projects I work.
+
+Feel free to ask questions or connect with me on [Linkedin](https://linkedin.com/in/bensghir). See you next time!

@@ -21,7 +21,7 @@ DBT started gaining popularity back in 2021 and is backed by DBT Labs, pioneers 
 ## Learning Resources:
 
 1. **DBT Labs Official Courses:**
-   - Start with fundamental courses such as dbt fundamentals, analyses and seeds, and jinja, macros, packages. These courses are project-oriented and offer certification upon completion.
+   - Start with fundamental courses such as [dbt fundamentals](https://learn.getdbt.com/learn/course/dbt-fundamentals/), analyses and seeds, and jinja, macros, packages. These courses are project-oriented and offer certification upon completion.
 
 2. **Kahan Data Solutions YouTube Channel:**
    - Concise courses on transforming data with dbt.

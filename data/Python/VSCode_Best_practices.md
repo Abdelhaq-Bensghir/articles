@@ -5,4 +5,4 @@
 
     Learn more: [source](https://code.visualstudio.com/docs/python/environments)
 
-2. 
+2. [Python debugging in VS Code](https://code.visualstudio.com/docs/python/debugging)

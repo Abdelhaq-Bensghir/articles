@@ -11,7 +11,7 @@ websites:
 
 Cheat sheets:
     - name: git cheat-sheet
-    - link: "https://education.github.com/git-cheat-sheet-education.pdfhttps://education.github.com/git-cheat-sheet-education.pdf"
-    - category: Learning
-    - comment: "Learntail easily creates and generates up to five quizzes per month for free, with a focus on user feedback to enhance the experience."
+      - link: "https://education.github.com/git-cheat-sheet-education.pdfhttps://education.github.com/git-cheat-sheet-education.pdf"
+      - category: Learning
+      - comment: "Learntail easily creates and generates up to five quizzes per month for free, with a focus on user feedback to enhance the experience."
     
